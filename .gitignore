@@ -1,2 +1,8 @@
+#vs codeの設定ファイル
 .vscode
-launch.json
+
+#ビルド時の出力ファイル
+__pycache__
+build
+dist
+.spec
